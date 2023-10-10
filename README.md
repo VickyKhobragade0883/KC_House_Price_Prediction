@@ -65,6 +65,14 @@ We used data visualizations to enhance our understanding of the dataset and mode
 
 - **Residual Plots**: Visualizing model residuals to check for patterns and heteroscedasticity.
 
+## Challenges Faced
+
+1. **Model Selection:** Explored models like Linear Regression, Decision Trees, Random Forest, and SVR, highlighting their unique strengths and weaknesses for house price prediction.
+
+2. **Time Management:** Implemented effective project timelines with milestones, ensuring efficient allocation of time across data preprocessing, modeling, and evaluation.
+
+3. **Library Usage:** Leveraged Pandas, Scikit-Learn, Matplotlib, and Seaborn for streamlined data manipulation, modeling, and visualization. Efficient use and documentation of libraries improved workflow and collaboration, a crucial aspect of successful data science projects.
+
 ### Conclusion
 
 In conclusion, our machine learning models provide valuable insights into predicting house prices in King County. We found that factors such as square footage, location, and overall condition significantly impact house prices.
